@@ -1,6 +1,8 @@
-import React from 'react';
+import React from "react";
 
-import './styles.css';
+import "./styles.css";
+
+export const dynamic = "force-dynamic";
 
 function RootLayout({ children }) {
   return (
